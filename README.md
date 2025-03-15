@@ -12,7 +12,7 @@ A Socket.IO server implementation with MySQL database for user management and re
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/NguyenPhuoc/socket-server.git
 cd socket-server
 ```
 
